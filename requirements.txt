@@ -1,0 +1,6 @@
+boto3
+flask
+logging
+botocore
+requests
+cryptography
